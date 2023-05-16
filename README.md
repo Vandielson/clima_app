@@ -2,7 +2,7 @@
 
 > Tecnologias: HTML, CSS e JavaScript
 
-> Desenvilvido durante curso de Desenvolvimento Web
+> Desenvolvido durante curso de Desenvolvimento Web
 
 ### Descrição do Projeto
 
